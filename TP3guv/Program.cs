@@ -60,29 +60,6 @@ class TPTres
     }
 
     //Creacion de vuelo y sus asientos
-    /*static int Creacion_vueloYAsientos()
-    {
-        //Ejercicio N°1
-        int[][] vuelos = new int[1][];
-
-        for (int i = 1; i < 62; i++)
-        {
-            Array.Resize(ref vuelos[0], i);
-
-            vuelos[0][i - 1] = 0;
-        }
-
-        for (int j = 0; j < vuelos[0].Length; j++)
-        {
-            Console.WriteLine($"vuelos [0][{j}]= {vuelos[0][j]}");
-
-        }
-
-        Console.ReadKey();
-        return 1;
-    }*/
-
-    //otro codigo para los asientos
 
     static void creacionVuelosYAsientos()
     {
