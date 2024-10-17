@@ -5,5 +5,8 @@ El proyecto esta realizado por el lenguaje C# - version: .NET 8. en la que podra
 
 Este trabajo conciste en elegir asietos en una aerolinea llamada GUV. 
 En el cual podes ver que asientos son los que estan disponibles y/o reservados.
+Tambien vas a poder cancelar el asiento reservado.
+
+
 
 
